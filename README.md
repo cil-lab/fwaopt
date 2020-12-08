@@ -1,8 +1,8 @@
-# MPOPT: Multi-Population based Optimization
+# FWAOPT: Multi-Population Optimization Based on Fireworks Algorithm
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-`mpopt` is a flexible framework for complex optimization tasks by managing multiple populations.
+`fwaopt` is a flexible framework for complex optimization tasks by managing multiple populations.
 
 > **Note:** We only consider **Bound-Constrained**, **Continuous**, **Black-Box**, **Minimization** optimization problems.
 
