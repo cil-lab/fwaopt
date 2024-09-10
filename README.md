@@ -126,7 +126,7 @@ alg.set_params(params)
 
 Please follow the README.md in each module for requirements to contirbutes.
 
-If you have any question, contact Yifeng Li (liyifeng0039@gmail.com).
+If you have any question, contact Yifeng Li (liyifeng0039@gmail.com) or Yifan Liu(liuyifan731@163.com).
 
 ## License
 This source code is licensed under GPL v3. License is avaliable [here](https://github.com/CavalloneChen/mpopt/blob/master/LICENSE).
@@ -136,3 +136,6 @@ This source code is licensed under GPL v3. License is avaliable [here](https://g
 - **EA**: Evolutionary Algorithm.
 
 - **SIOA**: Swarm Intelligence Optimization Algorithm.
+
+
+
