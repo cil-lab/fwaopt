@@ -6,6 +6,9 @@ setup(
     version="1.1.0",
     author="CIL-LAB",
     description="Fireworks Algorithm",
-    package=find_packages(include=['mpopt', 'mpopt.*']),
-    py_modules=[],
+    package=['mpopt'],
+    package_dir={
+          'mpopt': 'mpopt',
+      }
+    # py_modules=[],
 )

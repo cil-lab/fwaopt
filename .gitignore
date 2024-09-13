@@ -2,3 +2,7 @@
 *.json
 *.egg-info
 .vscode
+dist
+build
+
+
