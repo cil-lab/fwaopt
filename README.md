@@ -41,7 +41,7 @@ The latest information on FWA can be found at [here](https://www.cil.pku.edu.cn/
 To install 'mpopt', run the following commands:
 
 ```sh
-git clone git@github.com:CavalloneChen/mpopt.git
+git clone https://github.com/cil-lab/fwaopt.git
 cd mpopt
 python3 setup.py install
 ```
@@ -82,6 +82,8 @@ evaluator = Evaluator(obj, max_eval = 100)
 ```
 
 You can also get a evaluator from provided benchmark easily:
+
+(Note: All benchmarks are written in C language, so they need to be compiled before running. For the compilation instruction, please refer to [mpopt/benchmarks/readme.md](./mpopt/benchmarks/readme.md))
 
 ```python
 from mpopt.benchmarks.benchmark import Benchmark
