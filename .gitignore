@@ -4,5 +4,9 @@
 .vscode
 dist
 build
+*.so
+*.a
+*.o
 
 
+ 
