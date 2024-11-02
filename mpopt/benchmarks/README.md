@@ -18,7 +18,7 @@ First run the following command to compile after the compiler has been installed
 
 ```text
 gcc -c cec13.c cec13.h
-ar rcs libicsi2022.a cec13.o
+ar rcs libcec13.a cec13.o
 ```
 
 Then run the following command to finish the compilation.
